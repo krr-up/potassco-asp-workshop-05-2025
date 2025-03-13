@@ -5,6 +5,7 @@ This repository for organizing ASP workshop taking place in May 2025, Potsdam.
 ## When?
 
 2 consecutive days between May 5-9th. Which exactly?
+Tuesday Wednesday would be convenient for Pedro, as he would prefer to fly on Monday.
 
 ## Where?
 
