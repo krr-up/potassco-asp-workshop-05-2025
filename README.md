@@ -29,15 +29,16 @@ Themes, and discussions, demos and talks around them
 
 ### External
 
-Francois Olivier
-David Pearce
-Pedro Cabalar
-Martin Dieguez
 Brais Muniz
+David Pearce
+Francois Olivier
+Jesse Heyninck
+Jiri Svancara
+Jochen Reutelshoefer
 Jorge Fandinno
 Konstantin Herud
-Jochen Reutelshoefer
-Jiri Svancara
+Martin Dieguez
 Martin Gebser (et al)
-Xianni Wang
+Pedro Cabalar
 Ruolin Wang
+Xianni Wang
