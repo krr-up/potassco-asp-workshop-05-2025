@@ -14,4 +14,30 @@ Can we get a nice room in House 70 for two consecutive days?
 
 ## Who will talk? What will be the format?
 
-## Who will attend?
+Themes, and discussions, demos and talks around them
+
+- Temporal extensions of ASP
+- Hybrid extensions of ASP
+- Verification of ASP
+- Explanation, Interaction and Visualization
+- Flatland and MAPF (?)
+- Meet the makers (??)
+
+## Who could/will attend?
+
+### Internal
+
+### External
+
+Francois Olivier
+David Pearce
+Pedro Cabalar
+Martin Dieguez
+Brais Muniz
+Jorge Fandinno
+Konstantin Herud
+Jochen Reutelshoefer
+Jiri Svancara
+Martin Gebser (et al)
+Xianni Wang
+Ruolin Wang
