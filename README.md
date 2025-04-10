@@ -52,6 +52,7 @@ Themes, and discussions, demos and talks around them
 * Torsten
 * Susana
 * Nico
+* Christoph - contacted
 * Tobias
 * Amadé
 * kep
