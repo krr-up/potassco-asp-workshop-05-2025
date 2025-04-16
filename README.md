@@ -6,26 +6,16 @@ The repository for organizing the ASP workshop taking place May 2025 in Potsdam.
 
 Tuesday, May 6 and Wednesday, May 7.
 
-### Tuesday
+### Tentative Schedule
 
-| Time | Room | Activity |
-| -- | -- | -- |
-| 8:40 – 9:20 | 0.10 | Arrival |
-| 9:20 – 10:00 | 0.10 | First Session |
-| 10:00 – 11:20 | 0.08 | Session Block |
-| 11:35 – 12:45 | Mensa | Lunch |
-| 13:00 – 16:45 | Lab | Session Block |
-| 18:00 – 19:30 | Potsdam | Dinner |
-
-### Wednesday
-
-| Time | Room | Activity |
-| -- | -- | -- |
-| 8:40 – 9:20 | 0.11 | Arrival |
-| 9:20 – 11:20 | 0.11 | Session Block |
-| 11:30 – 12:45 | Mensa | Lunch |
-| 13:00 – 16:15 | Lab | Session Block |
-| 17:30 – 18:00 | Potsdam | Beer Garden |
+| Tuesday | Room | Activity | | Wednesday | Room | Activity |
+| -- | -- | -- | -- | -- | -- | -- |
+| 8:40 – 9:20 | 0.10 | Arrival | | 8:40 – 9:20 | 0.11 | Arrival |
+| 9:20 – 10:00 | 0.10 | Session Block | | 9:20 – 11:20 | 0.11 | Session Block |
+| 10:00 – 11:20 | 0.08 | Session Block |    | | | | |
+| 11:35 – 12:45 | Mensa | Lunch | | 11:35 – 12:45 | Mensa | Lunch |
+| 13:00 – 16:45 | Lab | Session Block | | 13:00 – 16:15 | Lab | Session Block |
+| 18:00 – 19:30 | Potsdam | Dinner | | 17:30 – 19:00 | Potsdam | Beer Garden |   
 
 ### Arrival Train Connections
 
@@ -37,7 +27,13 @@ Tuesday, May 6 and Wednesday, May 7.
 
 ## Who will talk? What will be the format?
 
-Themes, and discussions, demos and talks around them
+### Discussions
+⚠️ your input here...
+* **Anthem** - Tobias (?? Chris, Jan)
+* **Explicit vs. Strong negation** - Pedro (Arvid)
+
+
+Ideas for themes, discussions, demos, and talks
 
 - Temporal extensions of ASP
 - Hybrid extensions of ASP
@@ -45,6 +41,8 @@ Themes, and discussions, demos and talks around them
 - Explanation, Interaction and Visualization
 - Flatland and MAPF (?)
 - Meet the makers (??)
+
+---
 
 ## Who could/will attend?
 
