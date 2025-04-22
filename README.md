@@ -92,6 +92,7 @@ Ideas for themes, discussions, demos, and talks
 * Javier? -> Amade
 * Arvid? -> Amade
 * Roland? -> Amade
+* Benny
 * Misbah -> Amade
 * Brais
 * Pedro
