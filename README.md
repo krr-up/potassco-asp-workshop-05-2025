@@ -62,7 +62,7 @@ Ideas for themes, discussions, demos, and talks
 
 ### External
 #### Theoretical side
-* Jesse Heyninck - Follow up with Torsten
+* Jesse Heyninck
 * Brais Muniz
 * Pedro Cabalar
 * Francois Olivier
