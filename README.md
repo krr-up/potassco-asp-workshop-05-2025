@@ -29,7 +29,7 @@ Tuesday, May 6 and Wednesday, May 7.
 
 ### Discussions
 ⚠️ your input here...
-* **Anthem/Verification** - Tobias (?? Chris, Jan, Jens?) -> Amade (ask Torsten)
+* **Anthem/Verification** - Tobias (?? Chris, Jan, Jens?) -> Amade (ask abount Jens)
 * **Explicit vs. Strong negation** - Pedro, David, (Arvid)
 
 
@@ -77,3 +77,26 @@ Ideas for themes, discussions, demos, and talks
 * Jochen Reutelshoefer
 * Konstantin Herud
 * Martin Gebser (et al)
+
+## Tuesday Dinner Attendees
+
+* Torsten
+* Susana
+* Nico? -> Kep
+* Tobias
+* Amade
+* Kep
+* Klaus
+* Tentative Henry
+* Philipp? -> Kep
+* Javier? -> Amade
+* Arvid? -> Amade
+* Roland? -> Amade
+* Misbah -> Amade
+* Brais
+* Pedro
+* Francois O.
+* Xanni
+* David?
+* Jens O.?
+* Jesse Heyninck
