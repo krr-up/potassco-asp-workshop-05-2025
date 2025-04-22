@@ -29,18 +29,16 @@ Tuesday, May 6 and Wednesday, May 7.
 
 ### Discussions
 ⚠️ your input here...
-* **Anthem** - Tobias (?? Chris, Jan)
-* **Explicit vs. Strong negation** - Pedro (Arvid)
+* **Anthem/Verification** - Tobias (?? Chris, Jan, Jens?) -> Amade (ask Torsten)
+* **Explicit vs. Strong negation** - Pedro, David, (Arvid)
 
 
 Ideas for themes, discussions, demos, and talks
 
-- Temporal extensions of ASP
-- Hybrid extensions of ASP
-- Verification of ASP
-- Explanation, Interaction and Visualization
-- Flatland and MAPF (?)
-- Meet the makers (??)
+- Temporal extensions of ASP (Pedro, Susana, Arvid, Francois O.) -> Amade
+- Hybrid extensions of ASP (Pedro, Philipp, Nico) -> Kep
+- Explanation, Interaction and Visualization (Susana, Hannes, Brais) -> Amade
+- Meet the makers (?? Roland, Benny)  -> On ice
 
 ---
 
@@ -54,7 +52,7 @@ Ideas for themes, discussions, demos, and talks
 * Tobias
 * Amadé
 * kep
-* Phillipp W.
+* Philipp W.
 * Henry
 * Klaus
 * Javier
@@ -64,15 +62,15 @@ Ideas for themes, discussions, demos, and talks
 
 ### External
 #### Theoretical side
-* Jesse Heyninck
+* Jesse Heyninck - Follow up with Torsten
 * Brais Muniz
 * Pedro Cabalar
 * Francois Olivier
-* Ruolin Wang - already going to be here
+* ~~Ruolin Wang~~
 * Xianni Wang - already going to be here
-* David Pearce - awaiting confirmation
-* Martin Dieguez - tentative
-* Jiri Svancara - follow-up request
+* David Pearce - awaiting confirmation, Follow up with Torsten
+* ~~Martin Dieguez~~
+* ~~Jiri Svancara~~
 * ~~Jorge Fandinno~~
 
 #### Applied side
