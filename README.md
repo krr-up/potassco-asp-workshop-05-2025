@@ -57,8 +57,9 @@ Ideas for themes, discussions, demos, and talks
 * Klaus
 * Javier
 * Arvid
-* Roland
+* Roland (virtual)
 * Benny
+* Mispah (virtual)
 
 ### External
 #### Theoretical side
@@ -91,9 +92,9 @@ Ideas for themes, discussions, demos, and talks
 * Philipp? -> Kep
 * Javier? -> Amade
 * Arvid? -> Amade
-* Roland? -> Amade
+* Roland
 * Benny
-* Misbah -> Amade
+* Misbah
 * Brais
 * Pedro
 * Francois O.
