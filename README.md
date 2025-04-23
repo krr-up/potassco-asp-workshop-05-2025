@@ -59,7 +59,7 @@ Ideas for themes, discussions, demos, and talks
 * Arvid
 * Roland (virtual)
 * Benny
-* Mispah (virtual)
+* Misbah (virtual)
 
 ### External
 #### Theoretical side
