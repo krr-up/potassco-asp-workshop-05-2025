@@ -101,3 +101,7 @@ Ideas for themes, discussions, demos, and talks
 * David?
 * Jens O.?
 * Jesse Heyninck
+
+## Beer Garden Options
+
+* [Braumanufaktur Templiner See](https://maps.app.goo.gl/H9x2CV3g6SEnuYLs8)
