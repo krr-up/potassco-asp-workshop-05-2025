@@ -88,7 +88,7 @@ Ideas for themes, discussions, demos, and talks
 * Amade
 * Kep
 * Klaus
-* Tentative Henry
+* Henry (if we start at 8pm)
 * Philipp? -> Kep
 * Javier? -> Amade
 * Arvid? -> Amade
