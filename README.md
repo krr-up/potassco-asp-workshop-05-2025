@@ -93,7 +93,6 @@ Ideas for themes, discussions, demos, and talks
 * Javier
 * Arvid?
 * Roland
-* Benny
 * Misbah
 * Brais
 * Pedro
