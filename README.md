@@ -90,7 +90,7 @@ Ideas for themes, discussions, demos, and talks
 * Klaus
 * Henry (if we start at 8pm)
 * Philipp? -> Kep
-* Javier? -> Amade
+* Javier
 * Arvid
 * Roland
 * Benny
