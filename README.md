@@ -102,6 +102,8 @@ Ideas for themes, discussions, demos, and talks
 * Jens O.?
 * Jesse Heyninck
 
-## Beer Garden Options
+## Beergarden Options
 
-* [Braumanufaktur Templiner See](https://maps.app.goo.gl/H9x2CV3g6SEnuYLs8)
+* [Braumanufaktur Templiner See](https://maps.app.goo.gl/H9x2CV3g6SEnuYLs8) - about 35 mins from golm, RB22 to Pfirschheide (5 min), walk to beergarden (2.2km, about 30 mins)
+* [Fabrikcafe/Fabrikgarten](https://maps.app.goo.gl/3wY7YGtZMQ8uiQA89) - RB to Hauptbahnof, then tram, total 35 mins
+* [Augustiner im Bürgerbahnhof](https://maps.app.goo.gl/G1tFKjYpfy5W4LXF8) - Very last resort, terrible service, but good connection to Golm
