@@ -30,7 +30,7 @@ Tuesday, May 6 and Wednesday, May 7.
 ### Discussions
 ⚠️ your input here...
 * **Anthem/Verification** - Tobias (?? Chris, Jan, Jens?) -> Amade (ask abount Jens)
-* **Explicit vs. Strong negation** - Pedro, David, (Arvid)
+* **Explicit vs. Strong negation** - Pedro will hold short presentation, other interested parties are David, Arvid
 
 
 Ideas for themes, discussions, demos, and talks
