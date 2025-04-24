@@ -91,7 +91,7 @@ Ideas for themes, discussions, demos, and talks
 * Henry (if we start at 8pm)
 * Philipp? -> Kep
 * Javier
-* Arvid
+* Arvid?
 * Roland
 * Benny
 * Misbah
