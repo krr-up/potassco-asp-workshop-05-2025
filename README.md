@@ -15,7 +15,7 @@ Tuesday, May 6 and Wednesday, May 7.
 | 10:00 – 11:20 | 0.08 | Session Block |    | | | | |
 | 11:35 – 12:45 | Mensa | Lunch | | 11:35 – 12:45 | Mensa | Lunch |
 | 13:00 – 16:45 | Lab | Session Block | | 13:00 – 16:15 | Lab | Session Block |
-| 18:00 – 19:30 | Potsdam | Dinner | | 17:30 – 19:00 | Potsdam | Beer Garden |   
+| 18:00 – 19:30 | Potsdam | Dinner | | 17:30 – 19:00 | Potsdam | Beer Garden |
 
 ### Arrival Train Connections
 
@@ -31,14 +31,24 @@ Tuesday, May 6 and Wednesday, May 7.
 ⚠️ your input here...
 * **Anthem/Verification** - Tobias (?? Chris, Jan, Jens?) -> Amade (ask abount Jens)
 * **Explicit vs. Strong negation** - Pedro will hold short presentation, other interested parties are David, Arvid
+* **Progress on asplain** - Progress on the idea for contrastive explanation in ASP. Susana/Brais
 
 
 Ideas for themes, discussions, demos, and talks
 
 - Temporal extensions of ASP (Pedro, Susana, Arvid, Francois O.) -> Amade
+    - Where do we stand with temporal reasoning in ASP? Perhaps we can do a discussion in which we draw what we have and future ideas we could do it at the start or end of the session.
+    - Metric translations: Showcase content of the TPLP paper and the multiple translations (Susana)
+    - Modeling in metric: How do we model in metric? Unexpected results when new steps are introduced, or when modeling with past (Susana, Arvid). The idea of new operators
+    - Non-monotonicity in temporal asp
 - Hybrid extensions of ASP (Pedro, Philipp, Nico) -> Kep
-- Explanation, Interaction and Visualization (Susana, Hannes, Brais) -> Amade
+- Explanation, Interaction and Visualization (Susana, Hannes, Brais) -> Amade (Ideally in an evening session to invite Son online)
+    - What do we want for explanations in ASP? Tool kit, system, formalization?
+    - What else can we do with UNSAT core techniques?
+    - Interactive systems for temporal reasoning/explanations (Discussion)
+    - Clingo to control clingo (Susana)
 - Meet the makers (?? Roland, Benny)  -> On ice
+
 
 ---
 
