@@ -19,11 +19,10 @@ Tuesday, May 6 and Wednesday, May 7.
 
 ### Arrival Train Connections
 
-| Route | Berlin Hbf | Potsdam Hbf | Golm |
-| -- | -- | -- | -- |
-| RB 23 | 7:50 | 8:18 | 8:29 |
-| RB 21 | - | 8:36 | 8:45 |
-| RB 22 | - | 8:48 | 8:58 |
+| Route | Potsdam Hbf | Golm |
+| -- | -- | -- |
+| RB 21 | 8:36 | 8:45 |
+| RB 22 | 8:48 | 8:58 |
 
 ## Who will talk? What will be the format?
 
