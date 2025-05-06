@@ -50,7 +50,6 @@ Ideas for themes, discussions, demos, and talks
 ### Internal
 * Torsten
 * Susana
-* Oskar (Susana bf)
 * Nico
 * Christoph
 * Tobias
@@ -87,6 +86,7 @@ Ideas for themes, discussions, demos, and talks
 
 * Torsten
 * Susana
+* Oskar (Susana bf)
 * Nico
 * Nico gf
 * Tobias
