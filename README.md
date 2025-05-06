@@ -87,12 +87,11 @@ Ideas for themes, discussions, demos, and talks
 * Torsten
 * Susana
 * Nico
+* Nico gf
 * Tobias
 * Amade
 * Kep
 * Klaus
-* Henry (if we start at 8pm)
-* Philipp? -> Kep
 * Javier
 * Roland
 * Misbah
@@ -100,8 +99,6 @@ Ideas for themes, discussions, demos, and talks
 * Pedro
 * Francois O.
 * Xanni
-* David?
-* Jens O.?
 * Jesse Heyninck
 
 ## Beergarden Options
