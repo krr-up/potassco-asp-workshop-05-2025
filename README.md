@@ -2,6 +2,8 @@
 
 The repository for organizing the ASP workshop taking place May 2025 in Potsdam.
 
+Zoom link: https://uni-potsdam.zoom-x.de/j/63616409445 (Password: 64322859)
+
 ## Where and when?
 
 **All sessions will take place in the upstairs lab on the 2. floor, room 2.47**
