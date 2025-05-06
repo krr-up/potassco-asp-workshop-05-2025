@@ -101,6 +101,9 @@ Ideas for themes, discussions, demos, and talks
 * Francois O.
 * Xanni
 * Jesse Heyninck
+* Dave?
+* Hannes?
+* Jan H.?
 
 ## Beergarden Options
 
