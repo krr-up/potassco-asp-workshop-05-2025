@@ -4,13 +4,15 @@ The repository for organizing the ASP workshop taking place May 2025 in Potsdam.
 
 ## Where and when?
 
+**All sessions will take place in the upstairs lab on the 2. floor, room 2.47**
+
 Tuesday, May 6 and Wednesday, May 7.
 
 ### Tentative Schedule
 
 | Tuesday | Room | Activity | | Wednesday | Room | Activity |
 | -- | -- | -- | -- | -- | -- | -- |
-| 8:40 – 9:20 | 0.10 | Arrival | | 8:40 – 9:20 | 0.11 | Arrival |
+| 8:40 – 9:20 | 2.47 | Arrival | | 8:40 – 9:20 | 2.47 | Arrival |
 | 9:20 – 10:00 | 0.10 | Session Block | | 9:20 – 11:20 | 0.11 | Session Block |
 | 10:00 – 11:20 | 0.08 | Session Block |    | | | | |
 | 11:35 – 12:45 | Mensa | Lunch | | 11:35 – 12:45 | Mensa | Lunch |
