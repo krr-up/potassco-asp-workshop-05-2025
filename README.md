@@ -101,7 +101,7 @@ Ideas for themes, discussions, demos, and talks
 * Francois O.
 * Xanni
 * Jesse Heyninck
-* Dave?
+* Dave R?
 * Hannes?
 * Jan H.?
 
